@@ -1,7 +1,7 @@
 # Chatbot
 AI Based Chatbot which supports voice inputs and outputs
 
-### Requirements
+## Requirements
     Python 2
     Flask
     Aiml (Artificial Intelligence Markup Language)
@@ -22,12 +22,15 @@ AI Based Chatbot which supports voice inputs and outputs
 
 3. Run the python server.
     ```bash
-    python2 main.py
+    python main.py
     ```
 4. Open **http://127.0.0.1:5000** in your browser.
 
 5. You're done and enjoy chatting with your bot via browser.
 
+## Screenshot
+
+![Screenshot](screenshot.png)
 
 
 
