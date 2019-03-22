@@ -1,5 +1,5 @@
 # Chatbot
-AI Based Chatbot
+AI Based Chatbot which supports voice inputs and outputs
 
 ### Requirements
     Python 2
