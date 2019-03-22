@@ -32,5 +32,9 @@ AI Based Chatbot which supports voice inputs and outputs
 
 ![Screenshot](screenshot.png)
 
+## Contributions
+
+Pull requests and suggestions are welcome.
+
 
 
